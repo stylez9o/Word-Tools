@@ -1,3 +1,4 @@
+package FindAnagrams;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
@@ -9,35 +10,6 @@ public class Main {
   public static void main(String[] args) {
 
     List linkedList = new LinkedList<String>();
-    // TestList
-    // linkedList.add("Peek");
-    // linkedList.add("Keep");
-    // linkedList.add("Care");
-    // linkedList.add("Laus");
-    // linkedList.add("Axel");
-    // linkedList.add("Saul");
-    // linkedList.add("Alex");
-    // linkedList.add("Race");
-    // linkedList.add("Super");
-    // linkedList.add("hannaH");
-    // linkedList.add("Speur");
-    // linkedList.add("Hannah");
-    // linkedList.add("Mali");
-    // linkedList.add("Almi");
-    // linkedList.add("Peek");
-    // linkedList.add("Keep");
-    // linkedList.add("Care");
-    // linkedList.add("Laus");
-    // linkedList.add("Axel");
-    // linkedList.add("Saul");
-    // linkedList.add("Alex");
-    // linkedList.add("Race");
-    // linkedList.add("Super");
-    // linkedList.add("hannaH");
-    // linkedList.add("Speur");
-    // linkedList.add("Hannah");
-    // linkedList.add("Mali");
-    // linkedList.add("Almi");
 
     try {
       File myObj = new File("test.txt");
